@@ -1,0 +1,9 @@
+Order_ID: 12
+User_ID: 11
+Order_Date: 13.11.2012
+Products_ID_list: 
+10
+12
+13
+14
+15 
