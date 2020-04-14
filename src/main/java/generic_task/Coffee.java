@@ -19,4 +19,11 @@ public class Coffee <T> {
         this.t = t;
     }
 
+    public void printPriceCoffee(){
+        System.out.println("one coffee = 10 lei");
+    }
+
+    public int addMilk(){
+       return 5;
+    }
 }
